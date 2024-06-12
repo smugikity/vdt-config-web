@@ -8,7 +8,7 @@ image:
   repository: 7upnamk/vie-front
   pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
-  tag: v2.2
+  tag: v2.3
 
 imagePullSecrets: []
 nameOverride: ""
